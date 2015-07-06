@@ -1,2 +1,2 @@
-# cordova-rtsp-player
-Cordova plugin to play an RTSP stream. Based on https://github.com/durfu/DFURTSPPlayer
+# cordova-ios-rtsp-player
+Cordova plugin to play an RTSP stream on iOS. Based on https://github.com/durfu/DFURTSPPlayer
