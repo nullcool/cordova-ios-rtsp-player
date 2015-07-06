@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="it.lorthirk.cordova-ios-rtsp-player"
+        version="0.0.1">
+    <engines>
+        <engine name="cordova" version=">=5.0.0"/>
+    </engines>
+    <name>Cordova iOS RTSP Player</name>
+    <description>A Cordova plugin to play an RTSP stream on iOS. Based on https://github.com/durfu/DFURTSPPlayer</description>
+    <author>Claudio Mezzasalma</author>
+    <keywords>rtsp,stream,ios</keywords>
+    <js-module src="www/RTSPPlayer.js" name="RTSPPlayer">
+        <clobbers target="rtspPlayer" />
+    </js-module>
+    <platform name="ios">
+
+    </platform>
+</plugin>
