@@ -4,7 +4,7 @@
         id="it.lorthirk.cordova-ios-rtsp-player"
         version="0.0.1">
     <engines>
-        <engine name="cordova" version=">=5.0.0"/>
+        <engine name="cordova" version=">=3.8.0"/>
     </engines>
     <name>Cordova iOS RTSP Player</name>
     <description>A Cordova plugin to play an RTSP stream on iOS. Based on https://github.com/durfu/DFURTSPPlayer</description>
